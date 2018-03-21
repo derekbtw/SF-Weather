@@ -2,8 +2,8 @@
   <img src="screenshot.jpg" alt="Screenshot" />
 </a>
 
-# SF-Weather
-**San Francisco Weather**
+<h1>SF-Weather</h1>
+<h3>San Francisco Weather</h3>
 
 A weather skin for Rainmeter using the San Francisco font from Apple.
 
